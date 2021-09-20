@@ -23,10 +23,11 @@ def send_data_for_image(mykey, df):
             key_is = ""
             if str(k).startswith("N/A")==False:
                 key_is = k
-            if str(k) != "Height" and str(k) != "Width":
+            if str(k) != "Height" and str(k) != "Width" and str(k) != "Filename":
                 pad = cal_padding(w, img_edit, key_is, i, k, df, tit_fnt)
                 img_edit.text((pad, text_height), f"{key_is} {df[k][i]}", (0, 0, 0), font=tit_fnt)
                 text_height = text_height + 35
+
         # img.show()
         img.save(f"Output/{df['Filename'][i]}.jpg")
 
