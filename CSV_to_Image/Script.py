@@ -44,11 +44,3 @@ def extract_data():
 if __name__ == "__main__":
     all_key = []
     extract_data()
-
-    # title = []
-    # df = pd.read_csv("Input/csvfile.csv")
-    # for i in range(len(df)):
-    #     title.append(df["Title:"][i])
-    #
-    # df["Filename"] = title
-    # df.to_csv("./Output/Output.csv")
