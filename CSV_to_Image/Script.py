@@ -28,7 +28,7 @@ def send_data_for_image(mykey, df):
                 img_edit.text((pad, text_height), f"{key_is} {df[k][i]}", (0, 0, 0), font=tit_fnt)
                 text_height = text_height + 35
         # img.show()
-        img.save(f"Output/image{i}.jpg")
+        img.save(f"Output/{df['Filename'][i]}.jpg")
 
 
 def extract_data():
@@ -44,10 +44,10 @@ if __name__ == "__main__":
     all_key = []
     extract_data()
 
-    title = []
-    df = pd.read_csv("Input/csvfile.csv")
-    for i in range(len(df)):
-        title.append(df["Title:"][i])
-
-    df["Filename"] = title
-    df.to_csv("./Output/Output.csv")
+    # title = []
+    # df = pd.read_csv("Input/csvfile.csv")
+    # for i in range(len(df)):
+    #     title.append(df["Title:"][i])
+    #
+    # df["Filename"] = title
+    # df.to_csv("./Output/Output.csv")
