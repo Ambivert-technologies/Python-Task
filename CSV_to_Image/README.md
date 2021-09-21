@@ -6,10 +6,8 @@ Features :
 - Size of Canvas can be customized by defining in csv
 - File name can be defined to get the output image in perticular dimension
 
-Input :
-- CSV, Font
-Output :
-- Images in jpg format
+Input : CSV, Font
+Output : Images in jpg format
 
 # Use Case
 - Instagram post such as quotes
