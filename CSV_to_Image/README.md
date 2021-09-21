@@ -18,8 +18,8 @@ Output :
 - and more
 
 # Required Lib:
-pip3 install pandas
-pip3 install pillow
+- pip3 install pandas
+- pip3 install pillow
 
 # How to run?
 python3 Script.py
