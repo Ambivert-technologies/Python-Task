@@ -19,7 +19,7 @@ def myFunction(data, mykeys, l):
 	pyautogui.sleep(1)
 
 	pyautogui.click(750,588)
-	pyautogui.typewrite('Hello')
+	#pyautogui.typewrite('Hello')
 	pyautogui.scroll(-10)
 	pyautogui.sleep(2)
 
