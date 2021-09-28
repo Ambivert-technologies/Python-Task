@@ -5,7 +5,7 @@ To run this properly you need to put your csv into the input folder and also the
 Features :
 - Size of Canvas can be customized by defining in csv
 - File name can be defined to get the output image in perticular dimension
-- Input : CSV, Font
+- Input : Sample included CSV, Font
 - Output : Images in jpg format
 
 # Use Case
