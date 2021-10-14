@@ -1,0 +1,69 @@
+adobe_xd:  
+clay_containers: 
+dots_indicator: 
+flutter_svg: 
+flutter_html: 
+auto_size_text_field: ^0.1.7
+carousel_slider: 
+get:
+flutter_rating_bar:
+cached_network_image: 
+geocoding: ^1.0.5
+geolocator: ^6.1.1
+google_nav_bar: 
+line_icons:  
+random_string: ^2.1.0 
+shared_preferences: ^0.5.7+1
+date_time_format: ^2.0.1
+cloud_firestore: ^0.14.4
+firebase_auth: 
+firebase_database:
+flutter_spinkit: ^4.1.2+1
+modal_bottom_sheet: ^2.0.0 
+flutter_staggered_animations: ^1.0.0
+flutter_easyloading: 
+country_list_pick: 
+fluttertoast:
+image_picker: 
+google_sign_in: ^4.4.4
+share: ^2.0.1
+flutter_facebook_login: ^3.0.0
+async: 
+archive: 
+quiver: 
+xml: 
+image: 
+dart2_constant: 
+dio:   
+flutter_downloader: 
+permission_handler: 
+downloader: ^0.0.1
+flutter_speed_dial: ^3.0.5
+html: 
+unique_identifier: ^0.2.0
+path_provider: 
+new_version: 
+flutter_cache_manager:
+in_app_purchase: ^0.5.2  
+provider: ^4.3.1
+file_cryptor: ^0.0.3
+flutter_native_image: ^0.0.6
+banner_carousel: ^1.0.1
+jiffy: ^1.1.0
+firestore_cache: 
+flutter_email_sender: ^5.0.2
+url_launcher: 
+firebase_analytics: 
+shimmer: ^2.0.0
+firebase_storage: 
+text: ^0.2.0
+flutter_widget_from_html_core: 
+flutter_bloc: 
+connectivity: ^3.0.6
+in_app_update: ^2.0.0  
+image_crop: ^0.4.0
+flutter_windowmanager: ^0.1.0
+showcaseview: ^1.1.0
+badges: ^2.0.1
+html2md: 
+epub_viewer: ^0.2.4
